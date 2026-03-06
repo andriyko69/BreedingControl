@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.andriyko69.breedingcontrol.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "LocalPlayerSwingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
